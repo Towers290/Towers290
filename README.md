@@ -1,0 +1,3 @@
+- Hello, I'm Towers290 and am working as a software developer and learning new things everyday.
+- I'm currently interested in Java web development but hope to learn in other domains in the future.
+- My current learning is focused on back-end Java web development skills including coding and consuming web services.
